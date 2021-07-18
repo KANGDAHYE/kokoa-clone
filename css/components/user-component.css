@@ -22,3 +22,18 @@
     width: 80px;
     height: 80px;
 }
+.user-component__avater--sm{
+    width: 60px;
+    height: 60px;
+    border-radius: 25px;
+}
+.user-component__title--not-bold{
+    font-weight: 400;
+}
+.user-component{
+    display: flex;
+    justify-content: space-between;
+}
+.user-component__column:lang(){
+    color:rgba(0, 0, 0, 0.5);
+}
