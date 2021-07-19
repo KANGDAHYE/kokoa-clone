@@ -1,16 +1,7 @@
 .screen-header__icons{
     position: relative;
 }
-.cog__dot{
-    background-color: tomato;
-    width: 6px;
-    height: 6px;
-    display: block;
-    border-radius: 3px;
-    position: absolute;
-    left: 74px;
-    bottom: 15px;
-}
+
 .plusIcon{
     font-size: 16px;
     font-weight: 600;

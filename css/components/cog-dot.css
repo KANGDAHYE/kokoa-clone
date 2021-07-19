@@ -1,0 +1,7 @@
+.cog-dot{
+    background-color: tomato;
+    width: 6px;
+    height: 6px;
+    display: block;
+    border-radius: 3px;
+}

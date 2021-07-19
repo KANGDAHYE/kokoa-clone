@@ -1,17 +1,7 @@
-.find-icons{
-    display: flex;
-    justify-content: space-between;
-
-}
-.find-icons__icon{
-    display: flex;
-    flex-direction: column;
-}
-.find-icons__icon i{
-    font-size: 35px;
-}
-.find-icons__icon span{
-    margin-top: 18px;
+.cog-dot__find{
+    position: absolute;
+    left: 74px;
+    bottom: 15px;
 }
 .recommended-friends{
     border-top: var(--main-border);
